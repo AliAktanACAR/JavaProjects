@@ -2,7 +2,7 @@ public class TalipHoca8 {
     public static void main(String[] args) {
 
         /*
-        overload constructor yada method, farklı sayıda parametreli methodlar oluşturma
+        overload constructor yada method, farklı sayıda parametreli methodlar, oluşturma
 
 
         static değerler bi sınıfa aitmiş gibi davranıyo yani bi class a ait değerler
